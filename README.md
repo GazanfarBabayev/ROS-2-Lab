@@ -12,7 +12,7 @@
 
 <div align = "center">
 
-![GitHub Release Date](https://img.shields.io/github/release-date/Gazanfar%20Babayev/ROS-2-Lab)
+![GitHub Release Date](https://img.shields.io/github/release-date/GazanfarBabayev/ROS-2-Lab)
 
 </div>
 
